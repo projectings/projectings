@@ -1,7 +1,7 @@
 # desired#1337
 <p align="center">
   <a href="https://github.com/weloveproxy">
-    <img src="https://discord.c99.nl/widget/theme-1/506489879887085568.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/506489879887085568.png"/>
      </a>
 </p>
 
