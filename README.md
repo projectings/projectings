@@ -1,4 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=31&duration=4000&pause=1000&color=1BA44B&width=435&lines=Desired" alt="Typing SVG" /></a>
 <p align=center>
   <a href="https://discord.com/users/506489879887085568"><img src="https://lanyard.cnrad.dev/api/506489879887085568" width=45%></a>
 </p>
