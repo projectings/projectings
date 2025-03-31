@@ -1,4 +1,4 @@
-# Welcome to my gitHub profile! 👋
+# Welcome to my github profile! 👋
 
 I'm **e**, a passionate developer from the UK. I enjoy creating innovative solutions and sharing them with the community.
 
