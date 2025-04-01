@@ -4,10 +4,13 @@ I'm **e**, a passionate developer from the UK. I enjoy creating innovative solut
 
 ## 🔧 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
 ## 📫 Connect with Me
 
@@ -16,10 +19,10 @@ I'm **e**, a passionate developer from the UK. I enjoy creating innovative solut
 
 ## 🔨 Notable Projects
 
-- **[killfeed](https://github.com/projectings/killfeed):** CSGO Killfeed implemented in CSS and JavaScript.
-- **[desired](https://github.com/projectings/desired):** A simple, sleek, and clean website.
+- **[killfeed](https://github.com/projectings/killfeed):** CSGO Killfeed for a website.
+- **[desired](https://github.com/projectings/desired):** A personal landing page.
 - **[question-generator](https://github.com/projectings/question-generator):** A web application for generating and modifying further mathematics questions.
-- **[scoreboard-overlay](https://github.com/projectings/scoreboard-overlay):** A customizable OBS overlay.
+- **[scoreboard-overlay](https://github.com/projectings/scoreboard-overlay):** A customizable OBS overlay for sports viewing.
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
